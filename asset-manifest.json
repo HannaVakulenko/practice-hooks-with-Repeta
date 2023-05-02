@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/practice-hooks-with-Repeta/static/css/main.e40eebd2.css",
+    "main.js": "/practice-hooks-with-Repeta/static/js/main.92fad535.js",
+    "static/media/avatar.png": "/practice-hooks-with-Repeta/static/media/avatar.e44fc4e22a4ce55fbe43.png",
+    "index.html": "/practice-hooks-with-Repeta/index.html",
+    "main.e40eebd2.css.map": "/practice-hooks-with-Repeta/static/css/main.e40eebd2.css.map",
+    "main.92fad535.js.map": "/practice-hooks-with-Repeta/static/js/main.92fad535.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e40eebd2.css",
+    "static/js/main.92fad535.js"
+  ]
+}
